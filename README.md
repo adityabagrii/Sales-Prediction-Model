@@ -44,5 +44,5 @@ The following machine learning models are used for prediction:
 
 ## Contributors
 
-- [Aditya Bagri](aditya22029@iiitd.ac.in)
-- [Suyash Kumar](suyash21293@iiitd.ac.in)
+- Aditya Bagri
+- Suyash Kumar
