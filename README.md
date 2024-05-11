@@ -37,12 +37,19 @@ The following machine learning models are used for prediction:
 4. ADA Boosting
 5. Gradient Boosting
 
-## Evaluation
+Later feature selection and feature scaling is performed to increase the accuracy in decision trees, which drastically affects the accuracies of all models.
 
+It increases the accuracy of Decision Trees and Random Forests but decreases the accuracy of the rest models.
+
+## Evaluation
+- Plot of mean and median replaced values against orginal dataset.
+- Plot of interpolation replaced values against original dataset.
 - Scatter plots are generated to visualize the predictions of each model against true values.
+- Correlation Matrix and feature importance graph is plotted.
 - The accuracy of each model is plotted on a histogram using Root Mean Squared Error (RMSE) as the loss function.
+- Other evaluation metrics like MAE, MSE, RMSE are also used to compare the results.
 
 ## Contributors
 
-- Aditya Bagri
-- Suyash Kumar
+- Aditya Bagri - 2022029
+- Suyash Kumar - 2021293
